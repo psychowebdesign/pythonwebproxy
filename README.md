@@ -1,3 +1,3 @@
 # pythonwebproxy
 
-A very simple python web proxy with simple caching.
+A very simple start to a python web proxy with simple caching.
